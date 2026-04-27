@@ -1,0 +1,336 @@
+# PyMorph v1.0.0 - Git Ignore File
+# Auteur: yo-le-zz
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# =========================
+# Environments
+# =========================
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# OS
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =========================
+# PyMorph Specific
+# =========================
+# Build outputs
+dist/
+build/
+*.exe
+*.app
+*.dmg
+*.deb
+*.rpm
+*.msi
+
+# Nuitka build directories
+*.build/
+*.onefile-build/
+*.dist/
+
+# Settings and cache
+pymorph_settings.json
+*.log
+obfuscation.log
+*.cache
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Generated obfuscated files
+obfuscated_*
+*_obfuscated.*
+obfuscated_output/
+obfuscated_files/
+
+# =========================
+# Test Files (keep only our test files)
+# =========================
+# Remove old test files but keep our clean test suite
+test_*.py.old
+test_*.cpp.old
+test_*.js.old
+test_*.rs.old
+test_*.c.old
+test_*.java.old
+test_*.go.old
+
+# =========================
+# Documentation
+# =========================
+docs/_build/
+docs/.doctrees/
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.ilg
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.figlist
+*.makefile
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# =========================
+# Assets and Media
+# =========================
+assets/icon.ico.tmp
+assets/*.png.tmp
+assets/*.jpg.tmp
+assets/*.svg.tmp
+
+# =========================
+# Configuration
+# =========================
+config.ini
+config.json
+settings.json
+.user_settings
+
+# =========================
+# Logs and Debug
+# =========================
+*.log
+logs/
+debug/
+trace/
+*.trace
+
+# =========================
+# Security
+# =========================
+*.key
+*.pem
+*.crt
+*.pfx
+secrets/
+.private/
+
+# =========================
+# Package Managers
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# =========================
+# Compiled Languages
+# =========================
+# C/C++
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.exp
+*.pdb
+*.ilk
+*.map
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.war
+*.aar
+*.jks
+*.keystore
+target/
+build/
+out/
+
+# Rust
+target/
+Cargo.lock
+*.rlib
+*.pdb
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+
+# JavaScript/Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+
+# =========================
+# Archive Files
+# =========================
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+
+# =========================
+# Database
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Backup Files
+# =========================
+*.backup
+*.bak
+*.old
+*.orig
+*.rej
+
+# =========================
+# Performance Profiling
+# =========================
+*.prof
+*.profile
+*.perf
+
+# =========================
+# Temporary Build Artifacts
+# =========================
+*.tmpbuild/
+*.tempbuild/
+temp_build/
+
+# =========================
+# User Generated Content
+# =========================
+user_files/
+user_data/
+custom_tests/
+examples/output/
+examples/generated/
+
+# =========================
+# Development Tools
+# =========================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pycache/
+
+# =========================
+# Misc
+# =========================
+*.pid
+*.seed
+*.pid.lock
+.lock
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# PyMorph Build Artifacts
+# =========================
+PyMorph_Portable/
+PyMorph.build/
+*.manifest
+*.spec
+*.bin
+*.run

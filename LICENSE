@@ -1,0 +1,240 @@
+PYMORPH v1.0.0 - RESTRICTIVE LICENSE AGREEMENT
+
+Copyright (c) 2026 yo-le-zz
+
+IMPORTANT: READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING PYMORPH SOFTWARE.
+
+This license agreement ("License") is a legal agreement between you ("Licensee") and 
+yo-le-zz ("Licensor") for the PyMorph software ("Software"), which includes computer 
+software, documentation, and associated materials.
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE 
+TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT 
+USE THE SOFTWARE.
+
+---
+
+### ARTICLE 1 - DEFINITIONS
+
+1.1 **"Software"** means PyMorph v1.0.0, including all components, modules, documentation, 
+and associated materials provided by Licensor.
+
+1.2 **"Obfuscated Code"** means source code that has been processed through the Software 
+to make it difficult to understand while maintaining functionality.
+
+1.3 **"Source Code"** means the original, human-readable code of the Software itself.
+
+1.4 **"Use"** means running the Software to obfuscate your own code files.
+
+1.5 **"Distribution"** means making the Software available to third parties in any form.
+
+---
+
+### ARTICLE 2 - GRANTED RIGHTS
+
+2.1 **Usage Rights**
+   Licensee is granted a non-exclusive, non-transferable, non-sublicensable right to:
+   - Use the Software for obfuscating Licensee's own source code
+   - Create obfuscated versions of Licensee's code files
+   - Use obfuscated code in Licensee's applications
+   - Compile and distribute applications containing obfuscated code
+
+2.2 **Compilation Rights**
+   Licensee may compile the Software into executable form for personal use, provided
+   the compiled executable contains the same restrictions as this License.
+
+2.3 **Backup Rights**
+   Licensee may create backup copies of the Software for personal use only.
+
+---
+
+### ARTICLE 3 - RESTRICTIONS AND PROHIBITIONS
+
+3.1 **Source Code Restrictions**
+   Licensee is STRICTLY PROHIBITED from:
+   - Accessing, viewing, copying, or modifying the Software's source code
+   - Reverse engineering, decompiling, or disassembling the Software
+   - Attempting to extract the obfuscation algorithms or techniques
+   - Creating derivative works based on the Software's source code
+
+3.2 **Distribution Restrictions**
+   Licensee is STRICTLY PROHIBITED from:
+   - Distributing, selling, or licensing the Software to third parties
+   - Making the Software available for download or access
+   - Including the Software in software bundles or collections
+   - Renting, leasing, or providing the Software as a service
+
+3.3 **Commercial Restrictions**
+   Licensee is STRICTLY PROHIBITED from:
+   - Selling the Software or any part thereof
+   - Using the Software in a commercial service offering
+   - Monetizing access to the Software's functionality
+   - Creating commercial products based on the Software's techniques
+
+3.4 **Modification Restrictions**
+   Licensee is STRICTLY PROHIBITED from:
+   - Modifying the Software's source code or compiled binaries
+   - Creating patches, mods, or modifications to the Software
+   - Translating or localizing the Software
+   - Adding or removing features from the Software
+
+---
+
+### ARTICLE 4 - OBFUSCATED CODE RIGHTS
+
+4.1 **Ownership**
+   Licensee retains full ownership and rights to their original source code.
+   Licensee owns all rights to the obfuscated code generated from their source code.
+
+4.2 **Usage of Obfuscated Code**
+   Licensee may use, modify, and distribute obfuscated code generated from their own
+   source code without restrictions.
+
+4.3 **No Claims on Techniques**
+   Licensee may not extract, replicate, or implement the obfuscation techniques
+   used by the Software in their own tools or products.
+
+---
+
+### ARTICLE 5 - INTELLECTUAL PROPERTY
+
+5.1 **Software Ownership**
+   All intellectual property rights in the Software, including but not limited to
+   patents, copyrights, trade secrets, and trademarks, remain the exclusive property
+   of Licensor.
+
+5.2 **No License Grant**
+   No rights, titles, or interests in the Software's intellectual property are
+   transferred to Licensee except as explicitly granted in this License.
+
+5.3 **Protection of Techniques**
+   The obfuscation methods, algorithms, and techniques implemented in the Software
+   constitute trade secrets and proprietary information of Licensor.
+
+---
+
+### ARTICLE 6 - TERM AND TERMINATION
+
+6.1 **Term**
+   This License is effective until terminated by Licensor.
+
+6.2 **Termination**
+   Licensor may terminate this License immediately upon written notice if Licensee:
+   - Violates any provision of this License
+   - Attempts to reverse engineer the Software
+   - Distributes or sells the Software
+   - Uses the Software for prohibited purposes
+
+6.3 **Effect of Termination**
+   Upon termination, Licensee must:
+   - Immediately cease all use of the Software
+   - Delete all copies of the Software
+   - Destroy any backup copies
+   - Certify compliance in writing
+
+---
+
+### ARTICLE 7 - WARRANTY DISCLAIMER
+
+7.1 **No Warranty**
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7.2 **No Guarantee**
+   Licensor does not guarantee that the Software will meet Licensee's requirements,
+   operate without interruption, or be error-free.
+
+7.3 **No Support**
+   Licensor provides no technical support, maintenance, or updates unless specifically
+   agreed in writing.
+
+---
+
+### ARTICLE 8 - LIMITATION OF LIABILITY
+
+8.1 **Direct Damages**
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INCIDENTAL, SPECIAL,
+   CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE
+   SOFTWARE.
+
+8.2 **Indirect Damages**
+   Licensor shall not be liable for any loss of data, loss of profits, business
+   interruption, or other economic damages, even if advised of their possibility.
+
+8.3 **Maximum Liability**
+   Licensor's total liability under this License shall not exceed the amount paid
+   for the Software, if any.
+
+---
+
+### ARTICLE 9 - CONFIDENTIALITY
+
+9.1 **Confidential Information**
+   All aspects of the Software, including source code, algorithms, techniques, and
+   documentation, constitute confidential information of Licensor.
+
+9.2 **Protection Obligations**
+   Licensee must protect the confidentiality of the Software with at least the same
+   degree of care as their own confidential information, but in no case less than
+   reasonable care.
+
+9.3 **No Disclosure**
+   Licensee may not disclose any information about the Software's functionality,
+   techniques, or implementation to third parties.
+
+---
+
+### ARTICLE 10 - ENFORCEMENT
+
+10.1 **Jurisdiction**
+    This License shall be governed by and construed in accordance with the laws of
+    the jurisdiction where Licensor resides.
+
+10.2 **Legal Action**
+    Licensor may seek injunctive relief and monetary damages for violations of this
+    License.
+
+10.3 **Attorney's Fees**
+    In any legal action to enforce this License, the prevailing party shall be entitled
+    to reasonable attorney's fees and costs.
+
+---
+
+### ARTICLE 11 - GENERAL PROVISIONS
+
+11.1 **Entire Agreement**
+    This License constitutes the entire agreement between the parties regarding the
+    Software and supersedes all prior communications and agreements.
+
+11.2 **Severability**
+    If any provision of this License is found to be unenforceable, the remaining
+    provisions shall continue in full force and effect.
+
+11.3 **No Waiver**
+    Failure of Licensor to enforce any provision of this License does not constitute
+    a waiver of future enforcement.
+
+11.4 **Assignment**
+    Licensee may not assign or transfer this License without Licensor's prior written
+    consent.
+
+---
+
+### ACCEPTANCE
+
+BY USING PYMORPH SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE
+TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT.
+
+IF YOU DO NOT AGREE TO THESE TERMS, IMMEDIATELY STOP USING THE SOFTWARE AND DELETE
+ALL COPIES FROM YOUR SYSTEM.
+
+---
+
+**PyMorph v1.0.0**
+**Author: yo-le-zz**
+**Date: April 27, 2026**
+**Version: 1.0.0**
+
+This license is designed to protect the intellectual property and proprietary techniques
+implemented in PyMorph while allowing legitimate use for code protection purposes.

@@ -1,0 +1,36 @@
+# PyMorph Requirements
+# Core dependencies for the multi-language code obfuscator
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Testing Framework
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# AST manipulation and code analysis
+astor>=0.8.1
+
+# Advanced encoding (optional)
+cryptography>=3.4.8
+
+# Language-specific dependencies
+# For C/C++ obfuscation
+clang>=14.0.0
+
+# For JavaScript obfuscation
+esprima>=4.0.1
+
+# For Rust obfuscation
+# Note: Rust toolchain must be installed separately
+
+# For Java obfuscation
+# Note: JDK must be installed separately
+
+# For Go obfuscation
+# Note: Go toolchain must be installed separately
+
+# Development dependencies
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
